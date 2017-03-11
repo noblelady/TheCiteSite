@@ -1,23 +1,10 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--,
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    -----------------------------------------------------------------
+# The Cite Site
 
-
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, we included a small hello world application.
-
-1) Open the hello-world.html file
-
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
+The Cite Site is a research tool meant to make writing papers easier.
+You enter a URL of an article and it scrapes the page and returns all the text.
+You can then select text and add it to tags of your choosing, either new tags or some of our pre-established ones.
+You can also add citations for each article in MLA format
+After exiting the modal all the tags will appear on the main page for easy access.
 
 
 ## Support & Documentation
